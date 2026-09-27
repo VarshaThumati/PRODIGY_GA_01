@@ -1,0 +1,39 @@
+Artificial intelligence is a field of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence.
+
+Machine learning is a branch of artificial intelligence that allows computers to learn patterns from data and make predictions without being explicitly programmed for every task.
+
+Generative artificial intelligence is a type of AI that can create new content such as text, images, audio, video, and computer code.
+
+Natural language processing allows computers to understand, process, and generate human language. It is used in translation, summarization, question answering, and chatbots.
+
+Transformers are neural network architectures that use attention mechanisms to understand relationships between different tokens in a sequence.
+
+Large language models are AI models trained on large amounts of text data. They can perform tasks such as text generation, summarization, translation, and question answering.
+
+GPT-2 is a transformer-based causal language model developed by OpenAI. It generates text by predicting the next token based on the tokens that came before it.
+
+A tokenizer converts text into smaller units called tokens and then represents those tokens using numerical IDs that a language model can process.
+
+Fine-tuning means taking a pretrained model and training it further on a specific dataset so that it can adapt to a particular type of text or task.
+
+During model training, the model adjusts its internal parameters to reduce the difference between its predictions and the expected results.
+
+A prompt is the input text provided to a generative AI model. The model uses the prompt as context when generating its response.
+
+Text generation is the process of producing new text from a language model based on an input prompt.
+
+Temperature is a generation parameter that controls how random the model's predictions are. Higher values generally produce more varied outputs.
+
+Top-k sampling limits the model's next-token choices to the k most probable tokens before selecting the next token.
+
+Top-p sampling selects from the smallest group of tokens whose combined probability reaches a specified probability value.
+
+Hugging Face Transformers is a popular Python library that provides pretrained models and tools for natural language processing and generative AI.
+
+A GPU can accelerate deep learning operations because it can perform many mathematical calculations in parallel.
+
+A pretrained model has already learned general patterns from a large training dataset. Fine-tuning allows it to learn additional patterns from a smaller task-specific dataset.
+
+A causal language model predicts future tokens using the tokens that appear earlier in the sequence.
+
+Generative AI systems are increasingly used for applications such as content creation, coding assistance, education, customer support, and information retrieval.

@@ -1,0 +1,18 @@
+# Fine-tuned GPT-2 model
+gpt2-prodigy-task01/
+gpt2-prodigy-task01-final/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db

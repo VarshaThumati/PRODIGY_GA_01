@@ -1,0 +1,55 @@
+============================================================
+PRODIGY TASK 01 - GPT-2 TEXT GENERATION
+============================================================
+
+Model: GPT-2
+Fine-tuned on: Custom AI and Generative AI dataset
+
+------------------------------------------------------------
+PROMPT 1:
+Artificial intelligence is
+
+GENERATED TEXT:
+Paste your actual generated output here.
+
+
+------------------------------------------------------------
+PROMPT 2:
+Machine learning allows computers
+
+GENERATED TEXT:
+Paste your actual generated output here.
+
+
+------------------------------------------------------------
+PROMPT 3:
+Generative AI can
+
+GENERATED TEXT:
+Paste your actual generated output here.
+
+
+------------------------------------------------------------
+PROMPT 4:
+GPT-2 is
+
+GENERATED TEXT:
+Paste your actual generated output here.
+
+
+------------------------------------------------------------
+PROMPT 5:
+Transformers are
+
+GENERATED TEXT:
+Paste your actual generated output here.
+
+
+============================================================
+Generation Settings
+============================================================
+
+Max new tokens: 50
+Sampling: Enabled
+Temperature: 0.7
+Top-P: 0.92
